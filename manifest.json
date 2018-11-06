@@ -6,12 +6,12 @@
     "theme_color": "#437066",
     "icons": [
       {
-        "src": "/TCApps-Icon192.png",
+        "src": "/TCDocs-Icon192.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "/TCApps-Icon512.png",
+        "src": "/TCDocs-Icon512.png",
         "type": "image/png",
         "sizes": "512x512"
       }
